@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="text_header">Message Recieved</string>
+    <string name="editText_main">Enter Your Message Here</string>
+</resources>
