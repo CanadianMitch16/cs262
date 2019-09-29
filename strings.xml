@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="button_label_calculate">Calculate</string>
+    <string name="operator_choice">Operator</string>
+    <string name="value_two">Value 2:</string>
+    <string name="value_one">Value 1:</string>
+
+    <string name="calculator">Spinner</string>
+    <string-array name="Spinner_items">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+
+
+</resources>
+
+
