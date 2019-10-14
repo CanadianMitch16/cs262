@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW #1</string>
+    <string name="value_one_label">Value 1:</string>
+    <string name="value_two_label">Value 2:</string>
+    <string name="operator_choice_label">Operator</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="value_one_hint">Enter Value One,</string>
+    <string name="value_two_hint">Enter Value Two.</string>
+    <string name="starting_result">0</string>
+
+    <string-array name="spinner_items">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+
+</resources>
