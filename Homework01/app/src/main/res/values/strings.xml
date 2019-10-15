@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="value_one_label">Value 1:</string>
+    <string name="value_two_label">Value 2:</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="operator_label">Operator:</string>
+    <string name="starting_value">0</string>
+    <string-array name="spinner_items">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
