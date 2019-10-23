@@ -34,12 +34,6 @@ CREATE TABLE PlayerGame (
  				
 	);
 
-CREATE TABLE PlayerGame (
-	gameID integer REFERENCES Game(ID),
-	playerID interger REFERENCES Player(ID)
-	score integer, cash integer, position integer
-	);
-
 CREATE TABLE Property (
 	position integer PRIMARY KEY,
 	name varchar(50) NOT NULL,
